@@ -46,6 +46,50 @@ Conversion notes:
 ----->
 
 
+<!-----
+NEW: Check the "Suppress top comment" option to remove this info from the output.
+
+Conversion time: 0.514 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β30
+* Wed Aug 11 2021 15:18:12 GMT-0700 (PDT)
+* Source doc: Week 1
+* Tables are currently converted to HTML tables.
+----->
+
+
+<!-----
+NEW: Check the "Suppress top comment" option to remove this info from the output.
+
+Conversion time: 0.97 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β30
+* Wed Aug 11 2021 23:23:06 GMT-0700 (PDT)
+* Source doc: Week 1
+* Tables are currently converted to HTML tables.
+----->
+
+
 
 <table>
   <tr>
@@ -145,7 +189,7 @@ Conversion notes:
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along%20_Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
    </td>
-   <td>[Lab] Lab | Python Error Handling
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Labs/Error_Handling/Lab_Python_Error_Handling.ipynb">[Lab] Lab | Python Error Handling</a>
    </td>
    <td>
    </td>
@@ -157,7 +201,7 @@ Conversion notes:
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Labs/Python_Strings/LAB_Notebook_Python_Strings.ipynb">[Lab] Lab | Python Strings</a>
    </td>
-   <td>
+   <td>[Lab] Lab | Prework Review
    </td>
    <td>
    </td>
@@ -167,7 +211,7 @@ Conversion notes:
    </td>
    <td>
    </td>
-   <td>[Lab] Lab | Prework Review
+   <td>
    </td>
    <td>
    </td>
@@ -211,5 +255,3 @@ Conversion notes:
    </td>
   </tr>
 </table>
-
-
