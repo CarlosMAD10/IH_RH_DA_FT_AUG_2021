@@ -24,3 +24,13 @@ Here are some of the tasks you need to perform:
 - Check and deal with NaN values. (Hint:Replacing null values – Replace missing values with means of the column (for numerical columns)).
 - Datetime format - Extract the months from the dataset and store in a separate column. Then filter the data to show only the information for the first quarter , ie. January, February and March. Hint: If data from March does not exist, consider only January and February.
 - BONUS: Put all the previously mentioned data transformations into a function/functions.
+
+### Activity 4
+
+- Show a plot of the total number of responses.
+- Show a plot of the response rate by the sales channel.
+- Show a plot of the response rate by the total claim amount.
+- Show a plot of the response rate by income.
+- Don't Limit your creativity!  plot Any interesting findings/insights that describe some interesting facts about your data set and its variables. Use the relevant plotting when you feel it is needed.
+- Plot the Correlation Heatmap.
+- Clean your notebook and make it a readible and presentable with a good documentation that summarizes the Data Cleaning, Exploration(including plots) Steps that you have performed.
