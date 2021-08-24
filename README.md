@@ -1,7 +1,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 1.389 seconds.
+Conversion time: 1.112 seconds.
 
 
 Using this Markdown file:
@@ -14,48 +14,212 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Wed Aug 18 2021 23:49:30 GMT-0700 (PDT)
+* Mon Aug 23 2021 13:57:08 GMT-0700 (PDT)
 * Source doc: Week 1
 * Tables are currently converted to HTML tables.
 ----->
 
 
-**Data Analysis Bootcamp - Berlin**
-
-**Week 2 | Day 4 `s Learning Objectives:**
-
-
-
-* Organizing data transformations into a pipeline.
-* Using Matplotlib and Seaborn
-* Plotting types 
-    * Scatter plots
-    * Box plots
-    * Bar plots
-    * Histograms
-* Descriptive Statistics Measures
-
-**Week 2 | Day3 `s Learning Objectives:**
-
-
-
-* Dataframe filtering
-* apply functions on Data Frames
-* using map function
-* using Lambda functions
-* dealing with missing values
-* Working with Categorical variables
-* Concatenating
-* working with DateTime using Pandas
-* Grouping using Pandas
-* Correlation Matrix
+**Data Analytics Bootcamp - Berlin**
 
 **Index of Contents**
 
 
 <table>
   <tr>
+   <td colspan="5" ><strong>Week 3</strong>
+<p>
+<strong>Week 3 | Day 2 `s Learning Objectives:</strong>
+<ul>
+
+<li>ERD
+
+<li>Joins
+
+<p>
+<strong>Week 3 | Day 1 `s Learning Objectives:</strong>
+<ul>
+
+<li>Relational Databases
+
+<li>SQL Queries.
+</li>
+</ul>
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Day 1</strong>
+   </td>
+   <td><strong>Day 2</strong>
+   </td>
+   <td><strong>Day 3</strong>
+   </td>
+   <td><strong>Day 4</strong>
+   </td>
+   <td><strong>Day 5</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1qac6LM0Jd_S-nWrt_YQb06t1M7r4yMhG/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1qac6LM0Jd_S-nWrt_YQb06t1M7r4yMhG/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Relational Databases</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1burXmoOVmjlhzUl_OEXaC3zo3j4HxIeq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1burXmoOVmjlhzUl_OEXaC3zo3j4HxIeq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Joins & ERD</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1Rh_4g8OCT8B-_ZVzrS_nlN4WMfmFlAmJ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1Rh_4g8OCT8B-_ZVzrS_nlN4WMfmFlAmJ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">SQL Sub Queries</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1h16mxSUulN9VWEfqz0VEIXSseN7SvY5a/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Stored Procedures</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/124rx5J1ezIVUa3WQW7JZXuC9hh-L92EV/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/124rx5J1ezIVUa3WQW7JZXuC9hh-L92EV/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Connect Python into MySQL</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_Intro_Sql.md">[LAB] Lab | SQL Intro</a>
+   </td>
+   <td>[Activity ERD]
+   </td>
+   <td>[Lab] Lab | SQL Sub Queries
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1JEC77rHggiED7i3qb_U1XOXhvaj4gaj4/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Select Case Statement</a>
+   </td>
+   <td>[Notebook]
+<p>
+Connect Python into MySQL
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Basics_Selection_Aggregation.md">[LAB] Lab | SQL Queries</a>
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Join_Two_Tables.md">[Lab] Lab | Sql Join two tables</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/16IYDrBewqSgTRXAbw8__pIvZw_xi3luu/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/16IYDrBewqSgTRXAbw8__pIvZw_xi3luu/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Temporary Table/Views</a>
+   </td>
+   <td>[Lab] Lab | Group By
+   </td>
+   <td>[Activity] No-SQL Databases MongoDB
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Join_Multi_Tables.md">[Lab] Lab | Sql Join multiple tables</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1_eqantztPUyqKO7gfkIBFJA6gbPKrQY7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1_eqantztPUyqKO7gfkIBFJA6gbPKrQY7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">DDL</a>
+   </td>
+   <td>[Lab] Lab | Stored Procedures
+   </td>
+   <td>Weekly Retro
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>[Lab] DDL
+   </td>
+   <td>
+   </td>
+   <td>[Lab] Lab | Python to Mysql
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>[Lab] Lab | SQL Data Cleaning
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
    <td colspan="5" ><strong>Week 2</strong>
+<p>
+<strong>Week 2 | Day 5 `s Learning Objectives:</strong>
+<ul>
+
+<li>Recap
+
+<li>Sampling
+
+<li>Practicing Group By
+
+<li>Kahoot*
+
+<li>Presentation skills
+
+<p>
+<strong>Week 2 | Day 4 `s Learning Objectives:</strong>
+<ul>
+
+<li>Organizing data transformations into a pipeline.
+
+<li>Using Matplotlib and Seaborn
+
+<li>Plotting types  
+<ul>
+ 
+<li>Scatter plots
+ 
+<li>Box plots
+ 
+<li>Bar plots
+ 
+<li>Histograms
+</li> 
+</ul>
+
+<li>Descriptive Statistics Measures
+
+<p>
+<strong>Week 2 | Day3 `s Learning Objectives:</strong>
+<ul>
+
+<li>Dataframe filtering
+
+<li>apply functions on Data Frames
+
+<li>using map function
+
+<li>using Lambda functions
+
+<li>dealing with missing values
+
+<li>Working with Categorical variables
+
+<li>Concatenating
+
+<li>working with DateTime using Pandas
+
+<li>Grouping using Pandas
+
+<li>Correlation Matrix
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
    </td>
   </tr>
   <tr>
@@ -75,13 +239,11 @@ Conversion notes:
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Notebook_Code_Along_RH_Pandas_Data_Frame_General.ipynb">[Code Along] Intro to Pandas</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1lunSe5OvOJmdKxFE2CkpsYnbyxAYpJ6u/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Basic Statistical Concepts</a>
+   <td><a href="https://docs.google.com/presentation/d/1PyidEaDkoAQGDRAQ5yEI_XjDtDh3A-g0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Correlation of Numerical Features</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1RP1DE_Tm8rOFKehDX0Zf6PeC0ffm8dLz/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] EDA with plotting</a>
    </td>
-   <td><a href="https://pandas.pydata.org/pandas-docs/stable/user_guide/window.html">[Presentation]</a>
-<p>
-<a href="https://pandas.pydata.org/pandas-docs/stable/user_guide/window.html">Windowing, Categorical</a>
+   <td><a href="https://docs.google.com/presentation/d/1lunSe5OvOJmdKxFE2CkpsYnbyxAYpJ6u/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Basic Statistical Concepts</a>
    </td>
   </tr>
   <tr>
@@ -91,13 +253,11 @@ Conversion notes:
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Cheat_Sheet_Python_Pandas.pdf">[Pandas Cheat Sheet]</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Notebook_Code_Along_Descriptive_Statistics_Structure.ipynb">[Notebook] Basic Statistical Concepts</a>
+   <td>[Activity] Correlation Matrix
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Matplotlib_Seaborn/Notebook_Code_Along_Matplotlib_Seaborn-Stucture.ipynb">[Notebook] EDA with plotting</a>
    </td>
-   <td>[Notebook]
-<p>
-Windowing, Categoricals
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Notebook_Code_Along_Descriptive_Statistics_Structure.ipynb">[Notebook] Basic Statistical Concepts</a>
    </td>
   </tr>
   <tr>
@@ -105,11 +265,11 @@ Windowing, Categoricals
    </td>
    <td><a href="https://docs.google.com/presentation/d/1IRgPY8aaoev3PTvEtoQ7q2yRx4zGzssv/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Pandas Joining, Grouping</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1PyidEaDkoAQGDRAQ5yEI_XjDtDh3A-g0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Correlation of Numerical Features</a>
+   <td>[Activity] Grouping, Cleaning using Pandas Health Care For All Case Study 
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Matplotlib.pdf">[Cheat Sheet] Matplotlib</a>
    </td>
-   <td>[Weekly Recap]
+   <td><a href="https://docs.google.com/presentation/d/1xltS6h0UFwZ1iVOTI80kxhmczEe2H9EP/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Weekly Recap]</a>
    </td>
   </tr>
   <tr>
@@ -117,7 +277,7 @@ Windowing, Categoricals
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Structure.ipynb">[Code Along] Pandas Joining, Grouping</a>
    </td>
-   <td>[Activity] Correlation Matrix
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[Lab] Customer Analysis</a>
    </td>
    <td>[Activity] Plotting
    </td>
@@ -129,11 +289,11 @@ Windowing, Categoricals
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/tree/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study">[Lab] Customer Analysis Case Study</a>
    </td>
-   <td>[Activity] Grouping, Cleaning using Pandas Health Care For All Case Study 
+   <td>
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[Lab] EDA</a>
    </td>
-   <td>Kahoot*
+   <td><a href="https://kahoot.it/">Kahoot*</a>
    </td>
   </tr>
   <tr>
@@ -141,11 +301,11 @@ Windowing, Categoricals
    </td>
    <td>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[Lab] Customer Analysis</a>
-   </td>
    <td>
    </td>
    <td>
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/tree/main/Class%20Materials/Pandas/Labs/Pandas_Group_By">[Lab Pandas Group By]</a>
    </td>
   </tr>
   <tr>
@@ -340,3 +500,4 @@ Windowing, Categoricals
    </td>
   </tr>
 </table>
+
