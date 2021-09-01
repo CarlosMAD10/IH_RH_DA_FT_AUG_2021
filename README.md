@@ -1,28 +1,226 @@
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 1.462 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β30
-* Fri Aug 27 2021 00:00:54 GMT-0700 (PDT)
-* Source doc: Bootcamp Contents
-* Tables are currently converted to HTML tables.
------>
-
 
 **Data Analytics Bootcamp - Berlin**
 
+Day 3
+
+
+<table>
+  <tr>
+   <td>9:00 - 9:20
+   </td>
+   <td>9:20 - 10:15
+   </td>
+   <td>10:15 - 10:30
+   </td>
+   <td>10:30 - 11:45
+   </td>
+   <td>11:45 - 12:00
+   </td>
+   <td>12:00 - 
+<p>
+12:50
+   </td>
+   <td>12:50 -
+<p>
+14:05
+   </td>
+   <td>14:05 - 18:00
+   </td>
+  </tr>
+  <tr>
+   <td>Warm up
+   </td>
+   <td>Review Q&A
+   </td>
+   <td>Break
+   </td>
+   <td>Lecture + Q&A
+   </td>
+   <td>Break
+   </td>
+   <td>Lecture / Q&A
+   </td>
+   <td>Lunch
+<p>
+Break
+   </td>
+   <td>Lab Work
+   </td>
+  </tr>
+</table>
+
+
 **Index of Contents**
+
+
+<table>
+  <tr>
+   <td colspan="5" ><strong>Week 4</strong>
+<p>
+<strong>Week 4 | Day 3 `s Learning Objectives:</strong>
+<ul>
+
+<li>Linear regression review
+
+<li>Model Validation
+
+<li>Improve data Transformation
+
+<li>Intro to Tableau GUI
+
+<p>
+<strong>Week 4 | Day 2 `s Learning Objectives:</strong>
+<ul>
+
+<li>One Hot/Label Encoding (categorical).
+
+<li>Linear regression
+
+<li>Model Validation
+
+<p>
+<strong>Week 4 | Day 1 `s Learning Objectives:</strong>
+<ul>
+
+<li>Intro to Machine Learning
+
+<li>Probability 
+
+<li>Sampling
+
+<li>Probability distributions
+
+<li>Data Transformation/Processing
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Day 1</strong>
+   </td>
+   <td><strong>Day 2</strong>
+   </td>
+   <td><strong>Day 3</strong>
+   </td>
+   <td><strong>Day 4</strong>
+   </td>
+   <td><strong>Day 5</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1NKVKx3xqzHmv7NQX1wQ2aSD--fWxo80w/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1NKVKx3xqzHmv7NQX1wQ2aSD--fWxo80w/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Intro to Machine Learning</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1BVu-5hpgW2DPqCz2_wTf3NizALRAfjE7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Linear Regression</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1BVu-5hpgW2DPqCz2_wTf3NizALRAfjE7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1BVu-5hpgW2DPqCz2_wTf3NizALRAfjE7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Improving Model Accuracy</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1vHxq5-hU3gSxAG9Vkm8oby5_esDxCMvf/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Visualisation</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1BCxSGxOgZ4NihLul36NUf5ZDJUhtJLv8/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Storytelling with Data </a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1p6Y7Oa5Dwx4KmyuWgiZ4AKwxYOB-kEyo/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1p6Y7Oa5Dwx4KmyuWgiZ4AKwxYOB-kEyo/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Probability</a>
+   </td>
+   <td>[Activity] Modeling
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/13mSW3I67S5J49XsDRVC1YJ_wPjqku1Vn/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Tableau </a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1FDhOzlnqOdpzzwDvlCj3WA445A-m5vo0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Tableau </a>
+   </td>
+   <td>[Code Along] Tableau
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1shmW7fLY1uZhgjy5XDqpsZ9D0x0iDde1/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1shmW7fLY1uZhgjy5XDqpsZ9D0x0iDde1/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Sampling</a> 
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[LAB] Lab | Model Fitting and Evaluating</a>
+   </td>
+   <td>[Activity] Tableau Intro
+   </td>
+   <td>[Activity] Tableau 
+   </td>
+   <td>[Activity] Tableau
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1XdR5iUVqmAaECCf-z8yuqfaIa9KloOUq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1XdR5iUVqmAaECCf-z8yuqfaIa9KloOUq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Probability Distributions</a> 
+   </td>
+   <td>
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[LAB] Lab | Model Evaluation and Improving</a>
+   </td>
+   <td>[Activity] Tableau
+   </td>
+   <td>Weekly Recap
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1WEh0T9n9mkazdzMCqq2uINFNZIo3rxCa/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1WEh0T9n9mkazdzMCqq2uINFNZIo3rxCa/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Data Processing</a>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>[LAB] Lab | Tableau
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/MidTerm_Project/MidTerm_Regression_Project.md">Midterm Project Intro/ Briefing</a>
+   </td>
+  </tr>
+  <tr>
+   <td>[Activity] Distributions
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>Weekly Retro
+   </td>
+  </tr>
+  <tr>
+   <td>Weekly Retro
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>[LAB] Lab | Tableau
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[LAB] Lab | Data Transformation</a>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
 
 
 <table>
@@ -552,3 +750,4 @@ Conversion notes:
    </td>
   </tr>
 </table>
+
