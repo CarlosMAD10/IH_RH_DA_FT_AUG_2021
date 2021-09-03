@@ -1,7 +1,7 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-Day 4
+**Day 5**
 
 
 <table>
@@ -12,11 +12,11 @@ Day 4
    </td>
    <td>09:50 - 10:00
    </td>
-   <td>10:00- 11:15
+   <td>10:00- 11:00
    </td>
-   <td>11:15 - 11:30
+   <td>11:00 - 11:15
    </td>
-   <td>11:30 - 
+   <td>11:15 - 
 <p>
 12:50
    </td>
@@ -24,7 +24,9 @@ Day 4
 <p>
 14:05
    </td>
-   <td>14:05 - 18:00
+   <td>14:05 - 15:00
+   </td>
+   <td>15:00 - 18:00
    </td>
   </tr>
   <tr>
@@ -34,7 +36,7 @@ Day 4
    </td>
    <td>Break
    </td>
-   <td>Lecture + Q&A
+   <td>Guest Speaker
    </td>
    <td>Break
    </td>
@@ -43,6 +45,8 @@ Day 4
    <td>Lunch
 <p>
 Break
+   </td>
+   <td>Weekly Retro
    </td>
    <td>Lab Work
    </td>
@@ -57,16 +61,28 @@ Break
   <tr>
    <td colspan="5" ><strong>Week 4</strong>
 <p>
-<strong>Week 4 | Day 3 `s Learning Objectives:</strong>
+<strong>Week 4 | Day 5`s Learning Objectives:</strong>
 <ul>
+
+<li>Tableau Table Calculations
+
+<li>Tableau different data sources.
+
+<li>Chart Types
+
+<li>Storytelling with Data.
+
+<p>
+<strong>Week 4 | Day 4 `s Learning Objectives:</strong>
+<ul>
+
+<li>Intro to Tableau GUI
 
 <li>Tableau Dimensions, Measures, Geo fields
 
 <li>Chart Types
 
 <li>Visualization practices.
-
-<li>Intro to Tableau GUI
 
 <p>
 <strong>Week 4 | Day 3 `s Learning Objectives:</strong>
@@ -111,6 +127,8 @@ Break
 </ul>
 </li>
 </ul>
+</li>
+</ul>
    </td>
   </tr>
   <tr>
@@ -136,9 +154,9 @@ Break
 <p>
 <a href="https://docs.google.com/presentation/d/1BVu-5hpgW2DPqCz2_wTf3NizALRAfjE7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Improving Model Accuracy</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1vHxq5-hU3gSxAG9Vkm8oby5_esDxCMvf/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Visualisation</a>
+   <td><a href="https://docs.google.com/presentation/d/13mSW3I67S5J49XsDRVC1YJ_wPjqku1Vn/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Tableau </a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1BCxSGxOgZ4NihLul36NUf5ZDJUhtJLv8/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Storytelling with Data </a>
+   <td>Guest Speaker
    </td>
   </tr>
   <tr>
@@ -148,11 +166,11 @@ Break
    </td>
    <td>[Activity] Modeling
    </td>
-   <td><a href="https://docs.google.com/presentation/d/13mSW3I67S5J49XsDRVC1YJ_wPjqku1Vn/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Tableau </a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[LAB] Lab | Model Evaluation and Improving</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1vHxq5-hU3gSxAG9Vkm8oby5_esDxCMvf/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Visualisation</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1FDhOzlnqOdpzzwDvlCj3WA445A-m5vo0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Tableau </a>
-   </td>
-   <td>[Code Along] Tableau
    </td>
   </tr>
   <tr>
@@ -162,11 +180,11 @@ Break
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[LAB] Lab | Model Fitting and Evaluating</a>
    </td>
-   <td>[Activity] Tableau Intro
+   <td>
    </td>
    <td>[Activity] Tableau 
    </td>
-   <td>[Activity] Tableau
+   <td><a href="https://docs.google.com/presentation/d/1BCxSGxOgZ4NihLul36NUf5ZDJUhtJLv8/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Storytelling with Data] </a>
    </td>
   </tr>
   <tr>
@@ -176,11 +194,11 @@ Break
    </td>
    <td>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[LAB] Lab | Model Evaluation and Improving</a>
+   <td>
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Customer_Analysis_Case_Study.md">[LAB] Lab | Tableau</a>
    </td>
    <td>[Activity] Tableau
-   </td>
-   <td>Weekly Recap
    </td>
   </tr>
   <tr>
@@ -192,9 +210,9 @@ Break
    </td>
    <td>
    </td>
-   <td>[LAB] Lab | Tableau
+   <td>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/MidTerm_Project/MidTerm_Regression_Project.md">Midterm Project Intro/ Briefing</a>
+   <td><a href="https://docs.google.com/presentation/d/1guBHLs9xzEafOslJhOSvzQTC_oonqCHC/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Weekly Recap</a>
    </td>
   </tr>
   <tr>
@@ -206,7 +224,7 @@ Break
    </td>
    <td>
    </td>
-   <td>Weekly Retro
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/MidTerm_Project/MidTerm_Regression_Project.md">Midterm Project Intro/ Briefing</a>
    </td>
   </tr>
   <tr>
@@ -218,7 +236,7 @@ Break
    </td>
    <td>
    </td>
-   <td>[LAB] Lab | Tableau
+   <td>Weekly Retro
    </td>
   </tr>
   <tr>
@@ -230,7 +248,7 @@ Break
    </td>
    <td>
    </td>
-   <td>
+   <td>[LAB] Lab | Tableau
    </td>
   </tr>
 </table>
