@@ -20,9 +20,15 @@ Here is the list of steps to be followed (building a simple model without balanc
 - Use the following features: `tenure`, `SeniorCitizen`, `MonthlyCharges` and `TotalCharges`:
   - Scale the features either by using normalizer or a standard scaler.
   - Split the data into a training set and a test set.
-  - Fit a logistic regression model on the training data.
+  - Fit a logistic Regression model on the training data.
+ 
+ Round 2
+  - Fit a Decision Tree Classifier on the training data.
   - Check the accuracy on the test data.
 
+ Round 3
+ -  apply K-fold cross validation on your Decision Tree Classifier and check the model score.
+ -  fit a Random forest Classifier on the data and compare the accuracy.
 **Note**: So far we have not balanced the data.
 
 Managing imbalance in the dataset
